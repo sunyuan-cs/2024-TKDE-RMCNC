@@ -1,6 +1,6 @@
 # 2024-TKDE-RMCNC
 ---
-Source code for paper "Robust Multi-View Clustering with Noisy Correspondence" on IEEE Transactions on Knowledge and Data Engineering 2024.
+Source code for paper "Robust Multi-View Clustering with Noisy Correspondence".
 ---
 ## Introduction
 ### About the paper
